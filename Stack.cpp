@@ -1,3 +1,7 @@
+//Nama  : M. Iqbal Nasmi Makarim
+//NPM   : G1A021094
+//Kelas : Informatika-B
+
 #include <iostream>
 #define MAX 26
 using namespace std;
